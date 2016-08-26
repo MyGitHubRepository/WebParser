@@ -1,0 +1,4 @@
+1- BeautifulSoup yükleyebilmek için pip yüklenmesi gerekiyor.
+2- Pip yüklemesi için "python get-pip.py" komutu çalýþtýrýlarak yükleniyor.
+3- Pip yüklendikten sonra "pip install BeautifulSoup4" yapýlarak yükleme iþlemi tamamlanýyor.
+4- BeautifulSoup çalýþma yapýsýný ekteki kaynaktan takip ettim("https://www.crummy.com/software/BeautifulSoup/bs4/doc/"). 
